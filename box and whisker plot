@@ -1,0 +1,4 @@
+First you need to find list the numbers form least to greatest and then you need to find the median.
+Then you need to find the median of the lower and upper quartiles which can be used to make the box. 
+The median of all the numbers should be located in the box otherwise it has not been done correctly.
+If there are 2 numbers in the middle, add both of them and divide by 2 to get your median.
